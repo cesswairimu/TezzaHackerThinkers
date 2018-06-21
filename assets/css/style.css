@@ -1,6 +1,6 @@
 @import url('swiper.css');
 @import url('bootstrap.css');
-@import url('font-awesome.min.css');
+/* @import url('font-awesome.min.css'); */
 @import url('owl.carousel.css');
 @import url('widget.css');
 @import url('typography.css');
@@ -17,9 +17,6 @@ section{padding: 45px 0px;}
 .mb20{margin-bottom: 20px;}
 .mb30{margin-bottom: 30px;}
 .gt_content_wrap{background-color: #fff;}
-
-
-
 
 
 @media screen and (max-width:768px){
@@ -2191,3 +2188,20 @@ input[type=checkbox]#agree_guide:checked + label:before { letter-spacing: 5px; }
 
 
 /*CUSTOM*/
+/* Font for text in paragraphs */
+p{
+	font-family: Open Sans !important;
+}
+/* Font for all headings */
+h1,h2,h3,h4,h5,h6,h7{
+	font-family: Trebuchet MS !important;
+}
+/* Tezza maroon background*/
+.tezza_maroon_bg{
+background-color: #b7352c !important;
+}
+/* Tezza Maroon color */
+.tezza_maroon_fg{
+	
+	color: #b7352c !important;
+}
