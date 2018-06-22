@@ -1,0 +1,96 @@
+/* 
+    Created on : Jun 21, 2018, 10:34:48 PM
+    Author     : Seun Ajayi
+*/
+.contact{
+    margin-top: 20px;
+}
+.contact h3{
+    color: #CC082C;
+}
+.btn-inquire{
+    background-color: #DFBE6D;
+    color:#fff;
+    border-color:#DFBE6D;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #fff;
+  background-color: #CC082C;
+  border-color: #CC082C;
+}
+#contact{
+    margin-top: 50px;
+}
+#contact .box{
+    width: 300px;
+    height: 150px;
+    padding: 30px 50px;
+    margin-bottom: 10px;
+    box-shadow: 15px 15px 4px -13px rgba(22, 24, 23, 0.4);
+}
+.box .country-title{
+    color: #CC082C;
+    font-weight: bold;
+}
+.box ul li{
+    font-size: 12px;
+}
+#nigeria-info ul li{
+    color: #158c15;
+}
+#kenya-info ul li{
+    color: #413737;;
+}
+#us-info ul li{
+    color: #171784;
+}
+.contact-form{
+    margin-top: 100px;
+}
+.contact-form input[type=text], input[type=email], textarea{
+    border: none;
+    border-bottom:1px solid #ccc;
+    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    font-weight: bold;
+}
+.contact-form .btn-primary{
+    background-color: #CC082C;
+    color:#fff;
+    border-color:#CC082C;
+    font-weight: bold;
+}
+footer{
+    background: linear-gradient(to bottom, rgba(204, 8, 44, 0.67), #CC082C);
+    color: #fff;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+footer a{
+    color: #ffffff;
+}
+#tagline p, b{
+    text-align: justify;
+}
+#tagline p, #footer-email span, .copyright{
+    color: rgba(255, 255, 255, 0.9);
+}
+#footer-email{
+    margin-top: 10px;
+}
+.privacy{
+    margin-top: 40px;
+}
+.privacy a{
+    margin-right: 20px;
+    color: rgba(255, 255, 255, 0.9);
+}
+.socials a{
+    margin-right: 10px;
+}
+
