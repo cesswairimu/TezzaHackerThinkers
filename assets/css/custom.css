@@ -125,14 +125,7 @@ h1, h2, h3, h4, h5, h6, h7 {
 }
 
 /***** FOOTER STYLES *****/
-footer{
-    background: linear-gradient(to bottom, rgba(204, 8, 44, 0.67), #CC082C);
-    color: #fff;
-    padding-left: 20px;
-    padding-top: 20px;
-}
-footer a{
-    color: #ffffff;
+
 }
 #tagline p, b{
     text-align: justify;
