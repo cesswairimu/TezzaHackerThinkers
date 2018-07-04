@@ -358,3 +358,9 @@
 /*mobinavbar*/
 
 /*CUSTOM*/
+@media (min-width: 671px) {
+
+.industry{
+	padding-left: 70px;
+}
+}
