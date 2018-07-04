@@ -2205,7 +2205,10 @@ background-color: #b7352c !important;
 	
 	color: #b7352c !important;
 }
-
+.trapezoid{
+    background-color: #b7352c;
+    color: white;
+}
 #page-mission{
     text-align: center;
     font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif !important;
@@ -2219,3 +2222,18 @@ background-color: #b7352c !important;
    font-weight: 100;
    opacity: 0.5;
 }
+#trap{
+text-align: center;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif !important;
+    font-weight: bold;
+    font-size: 6em;
+    color: white;	
+}
+
+#text1{
+font-family: Sans-Serif !important;
+   font-size: 1.5em;
+   font-weight: 100;
+   opacity: 0.5;
+   color: white;
+}	
