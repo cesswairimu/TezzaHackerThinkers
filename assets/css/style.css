@@ -2275,3 +2275,12 @@ text-align: left;
     font-weight: bold;
     color: #b7352c;
 }
+
+#text6{
+   font-family: Sans-Serif !important;
+   font-size: 1.25em;
+   font-weight: 100;
+   opacity: 0.5;
+    line-height: 1.6;
+}
+
